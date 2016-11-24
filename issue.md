@@ -13,3 +13,9 @@ To bundle JS file into your apk while having your server running (`react-native 
 ```
 curl "http://localhost:8081/index.android.bundle?platform=android" -o "android/app/src/main/assets/index.android.bundle"
 ```
+adb
+---
+```
+adb devices
+adb logcat
+```
