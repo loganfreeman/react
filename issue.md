@@ -19,3 +19,8 @@ adb
 adb devices
 adb logcat
 ```
+Running packager on port 8081
+---
+```
+react-native start
+```
