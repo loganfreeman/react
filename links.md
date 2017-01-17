@@ -11,3 +11,7 @@ visualizations
 General
 ---
 - [React for Meteor Developers](http://blog.differential.com/react-for-meteor-developers/)
+
+Bootstrap
+---
+- [Better Bootstrap modals and popover with React.js](https://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
