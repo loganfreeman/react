@@ -1,1 +1,2 @@
 - [css in js](https://github.com/MicheleBertoli/css-in-js)
+- [styling react](http://survivejs.com/react/advanced-techniques/styling-react/)
