@@ -23,3 +23,4 @@ Deploy
 - [Deploying a React Native App for iOS](https://medium.com/react-native-development/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8#.lk1gjkf41)
 - [Generating Signed APK](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 - [How to build .IPA for React Native?](http://www.devsplanet.com/question/35476349)
+- [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
