@@ -22,3 +22,4 @@ Deploy
 - [10 Things We Learned While Building a React Native App](https://medium.com/@tomgoldenberg/10-things-we-learned-while-building-a-react-native-app-44e22f1c06f#.d3005vvrg)
 - [Deploying a React Native App for iOS](https://medium.com/react-native-development/deploying-a-react-native-app-for-ios-pt-1-a79dfd15acb8#.lk1gjkf41)
 - [Generating Signed APK](https://facebook.github.io/react-native/docs/signed-apk-android.html)
+- [How to build .IPA for React Native?](http://www.devsplanet.com/question/35476349)
