@@ -24,3 +24,4 @@ Deploy
 - [Generating Signed APK](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 - [How to build .IPA for React Native?](http://www.devsplanet.com/question/35476349)
 - [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
+- [Simple React Native iOS Releases](https://shift.infinite.red/simple-react-native-ios-releases-4c28bb53a97b#.l47m74e8d)
