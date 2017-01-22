@@ -41,3 +41,7 @@ Router
 Debug
 ---
 - [Reactotron](https://github.com/infinitered/reactotron/blob/master/docs/quick-start-react-js.md)
+
+State management
+---
+- [redux](http://redux.js.org/)
