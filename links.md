@@ -29,3 +29,7 @@ Deploy
 Authentication
 ---
 - [How to Build a React.js Application with User Login & Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication)
+
+File Upload
+---
+- [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
