@@ -45,3 +45,4 @@ Debug
 State management
 ---
 - [redux](http://redux.js.org/)
+- [A React and Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
