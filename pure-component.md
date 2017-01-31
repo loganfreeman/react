@@ -1,3 +1,5 @@
+- [React.PureComponent](https://facebook.github.io/react/docs/react-api.html#react.purecomponent)
+
 ```js
 "use strict";
 
