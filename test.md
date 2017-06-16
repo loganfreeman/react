@@ -1,1 +1,1 @@
-- [migrate to jeset](http://facebook.github.io/jest/docs/migration-guide.html#content)
+- [migrate to jest](http://facebook.github.io/jest/docs/migration-guide.html#content)
