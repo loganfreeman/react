@@ -1,0 +1,1 @@
+- [migrate to jeset](http://facebook.github.io/jest/docs/migration-guide.html#content)
