@@ -5,3 +5,4 @@
 - [react-native-webpack-starter-kit](https://github.com/jhabdas/react-native-webpack-starter-kit)
 - [ignite](https://github.com/infinitered/ignite)
 - [GitterMobile](https://github.com/JSSolutions/GitterMobile)
+- [xReddit](https://github.com/KevinOfNeu/xReddit)
