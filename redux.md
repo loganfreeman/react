@@ -1,0 +1,1 @@
+- [redux-loop](https://github.com/redux-loop/redux-loop/tree/v2.2.2)
