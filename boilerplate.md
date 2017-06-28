@@ -6,4 +6,4 @@
 - [ignite](https://github.com/infinitered/ignite)
 - [GitterMobile](https://github.com/JSSolutions/GitterMobile)
 - [xReddit](https://github.com/KevinOfNeu/xReddit)
-- [NativeBase](https://github.com/GeekyAnts/NativeBase)
+- [NativeBase](https://github.com/start-react/native-starter-kit.git)
