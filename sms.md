@@ -1,1 +1,2 @@
 - [react-native-android-sms-listener](https://github.com/CentaurWarchief/react-native-android-sms-listener)
+- [react-native-android-sms](https://github.com/msmakhlouf/react-native-android-sms)
