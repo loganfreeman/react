@@ -1,1 +1,2 @@
 - [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview)
+- [react-native-sortable-listview](https://github.com/deanmcpherson/react-native-sortable-listview)
